@@ -1,0 +1,14 @@
+{
+  "name": "Logan's Star Chart",
+  "short_name": "Logan Stars",
+  "description": "A private daily star chart and reward tracker for Logan.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1c1034",
+  "theme_color": "#7b3fb1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
